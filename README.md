@@ -1,0 +1,1 @@
+Homework and final project for the programming languages course. Exercises are based on Formal Syntax and Semantics by Slonneger & Kurtz, Concepts in Programming Languages by Mitchell, and Types and Programming Languages by Pierce. The final project features a pure functional interpreter built with Racket.
